@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Screen Capture",
+    "description": "Adds a capture icon to the session header: select an area, a window, or the full screen, then annotate/edit (shapes, arrows, text, mosaic), copy it, or save it through a native save dialog."
+  }
+}
